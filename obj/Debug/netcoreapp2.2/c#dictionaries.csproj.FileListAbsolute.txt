@@ -1,0 +1,11 @@
+/Users/asiacarter/workspace/c#dictionaries/bin/Debug/netcoreapp2.2/c#dictionaries.deps.json
+/Users/asiacarter/workspace/c#dictionaries/bin/Debug/netcoreapp2.2/c#dictionaries.runtimeconfig.json
+/Users/asiacarter/workspace/c#dictionaries/bin/Debug/netcoreapp2.2/c#dictionaries.runtimeconfig.dev.json
+/Users/asiacarter/workspace/c#dictionaries/bin/Debug/netcoreapp2.2/c#dictionaries.dll
+/Users/asiacarter/workspace/c#dictionaries/bin/Debug/netcoreapp2.2/c#dictionaries.pdb
+/Users/asiacarter/workspace/c#dictionaries/obj/Debug/netcoreapp2.2/c#dictionaries.csprojAssemblyReference.cache
+/Users/asiacarter/workspace/c#dictionaries/obj/Debug/netcoreapp2.2/c#dictionaries.csproj.CoreCompileInputs.cache
+/Users/asiacarter/workspace/c#dictionaries/obj/Debug/netcoreapp2.2/c#dictionaries.AssemblyInfoInputs.cache
+/Users/asiacarter/workspace/c#dictionaries/obj/Debug/netcoreapp2.2/c#dictionaries.AssemblyInfo.cs
+/Users/asiacarter/workspace/c#dictionaries/obj/Debug/netcoreapp2.2/c#dictionaries.dll
+/Users/asiacarter/workspace/c#dictionaries/obj/Debug/netcoreapp2.2/c#dictionaries.pdb
